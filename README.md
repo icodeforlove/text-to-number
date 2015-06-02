@@ -19,5 +19,5 @@ bower install text-to-number
 ```javascript
 var textToNumber = require('text-to-number');
 
-textToNumber('two million in two thousand and sixty seven'); // 2002067
+textToNumber('two million two thousand and sixty seven'); // 2002067
 ```
